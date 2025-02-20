@@ -1,0 +1,1 @@
+# BlinkIT_DataAnalysis_using_Rapidminer
