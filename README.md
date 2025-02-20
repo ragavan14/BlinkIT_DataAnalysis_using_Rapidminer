@@ -1,4 +1,4 @@
-# Customer Sentiment Analysis and Product Insights for Enhanced Inventory and Sales Optimization at BlinkIT using Rapidminer
+## Customer Sentiment Analysis and Product Insights for Enhanced Inventory and Sales Optimization at BlinkIT using Rapidminer
 
 📌 Project Overview
 
