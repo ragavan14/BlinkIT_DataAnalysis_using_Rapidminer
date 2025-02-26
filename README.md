@@ -51,12 +51,6 @@ The project includes comprehensive data visualizations using Power BI to represe
 
   * Treated outliers using the Cap and Floor method
 
-  * <pre>
-hello, this is
-   just an     example
-....
-</pre>
-
 2. Feature Engineering
 
   * Created new features such as Sales Range, Outlet Age, and Sentiment Indicator
