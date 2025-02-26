@@ -5,7 +5,7 @@
 This project aims to analyze customer sentiment and product performance to optimize inventory and sales strategies at BlinkIT, a leading Q-commerce platform in India. By leveraging data-driven insights, businesses can improve customer satisfaction, enhance sales forecasting, and streamline inventory management.
 ##
 
-🔥 Key Features
+🔥 __Key Features__
 
 Sentiment Analysis: Analyzing customer feedback to gauge sentiment and identify trends.
 
@@ -17,7 +17,7 @@ Location-Based Insights: Understanding how sales performance varies by geographi
 
 Power BI Visualizations: Interactive dashboards to provide actionable insights.
 ##
-🛠️ Technologies Used
+🛠️ __Technologies Used__
 
 Data Processing: RapidMiner, Python (Pandas, NumPy).
 
@@ -28,7 +28,7 @@ Visualization: Power BI.
 Dataset: BlinkIT sales and customer sentiment data from Kaggle.
 
 ##
-📊 Data Insights & Visualizations
+📊 __Data Insights & Visualizations__
 
 The project includes comprehensive data visualizations using Power BI to represent trends effectively. Key insights include:
 
@@ -41,7 +41,7 @@ Sales by Location: Determines which areas have the highest sales volumes.
 Sentiment vs. Sales: Examines how sentiment influences sales trends.
 
 ##
-🔍 Methodology
+🔍 __Methodology__
 
 1. Data Collection & Cleaning
 
@@ -69,7 +69,7 @@ Accuracy: 93% for sentiment classification
 
 Sales Prediction RMSE: Low error rate of ~3.7%
 ##
-🎯 Business Impact
+🎯 __Business Impact__
 
 ✅ Enhanced Customer Satisfaction: Understanding sentiment trends helps in targeted customer engagement.
 ##
