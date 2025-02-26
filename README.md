@@ -54,13 +54,13 @@ The project includes comprehensive data visualizations using Power BI to represe
 2. Feature Engineering
 
   * Created new features such as Sales Range, Outlet Age, and Sentiment Indicator
-
+#
 3. Exploratory Data Analysis (EDA)
 
 * Identified correlations between sentiment, sales, and location
 
 * Developed Power BI dashboards for better visualization
-
+#
 4. Machine Learning Model
 
 * Model Used: Gradient Boosting Machines (GBM)
