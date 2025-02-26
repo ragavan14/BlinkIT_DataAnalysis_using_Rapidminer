@@ -45,12 +45,12 @@ The project includes comprehensive data visualizations using Power BI to represe
 
 1. Data Collection & Cleaning
 
-*   Imported BlinkIT dataset (12,524 rows, 12 columns)
+* "00A0" " "  Imported BlinkIT dataset (12,524 rows, 12 columns)
 
 *   Handled missing values using mean imputation
 
   * Treated outliers using the Cap and Floor method
-
+##
 2. Feature Engineering
 
   * Created new features such as Sales Range, Outlet Age, and Sentiment Indicator
