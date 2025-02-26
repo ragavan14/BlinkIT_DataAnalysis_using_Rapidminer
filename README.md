@@ -72,10 +72,10 @@ The project includes comprehensive data visualizations using Power BI to represe
 🎯 __Business Impact__
 
 ✅ Enhanced Customer Satisfaction: Understanding sentiment trends helps in targeted customer engagement.
-##
+#
 ✅ Optimized Inventory Management: Stocking the right products at the right locations reduces wastage and ensures 
 availability.
-##
+#
 ✅ Improved Sales Strategies: Location-based sales insights help optimize marketing and delivery operations.
-##
+#
 ✅ Data-Driven Decision Making: Predictive analytics empower businesses with actionable insights.
