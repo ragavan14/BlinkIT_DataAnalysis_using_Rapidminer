@@ -80,6 +80,6 @@ availability.
 
 ✅ Data-Driven Decision Making: Predictive analytics empower businesses with actionable insights.
 ##
-__Result__
+🎯 __Result__
 
 <img width="677" alt="image" src="https://github.com/user-attachments/assets/97d4e4cf-a4f7-4853-916e-e0763e465f17" />
