@@ -7,9 +7,7 @@ This project aims to analyze customer sentiment and product performance to optim
 
 🔥 __Key Features__
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses Sentiment Analysis: Analyzing customer feedback to gauge sentiment and identify trends.
+* Sentiment Analysis: Analyzing customer feedback to gauge sentiment and identify trends.
 
 Sales Forecasting: Using machine learning models (Gradient Boosting Machines) to predict sales trends.
 
